@@ -8,5 +8,3 @@
 ## What You Learn
 - Basic Task Management
 - User Input Handling
-- Employee Management
-
