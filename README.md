@@ -1,12 +1,12 @@
-# Project Title - Employee Management System Internship Domain
-# _Intermediate Level Assigned By - CodeClause Internship_
+# Project Title - To-Do List Application Java Development Intern
+# _Entry Level Project Assigned By - CodeClause Internship_
 ## Assigned to Nivaan Vedante
 
-- Create an employee management system to handle employee details, payroll, and attendance.
-- Description : Develop a Java application that supports CRUD operations for employee data, payroll calculations, and attendance tracking.
+- Develop a simple to-do list application where users can add, edit, and remove tasks.
+- Description : Implement a console-based to-do list application that supports adding, editing, and deleting tasks.
 
 ## What You Learn
-- UI Enhancements
-- Database Operations
+- Basic Task Management
+- User Input Handling
 - Employee Management
 
